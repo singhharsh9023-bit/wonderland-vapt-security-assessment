@@ -1,7 +1,5 @@
 # Wonderland VAPT — Full Security Assessment
 
-**Cybersecurity Major Project |**
-
 A documented Vulnerability Assessment and Penetration Testing (VAPT) exercise against the TryHackMe Wonderland lab, covering network reconnaissance, web enumeration, steganography, credential exposure, SSH access, Linux privilege escalation, evidence collection, Cyber Kill Chain mapping, and defensive remediation.
 
 ---
